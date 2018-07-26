@@ -14,4 +14,6 @@ for i = 1:1:3000
     C(1,i) = sum(C_temp);
 end
 
+
+%% My Revise!
 cap = mean(C);
